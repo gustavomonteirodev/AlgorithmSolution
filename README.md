@@ -1,2 +1,3 @@
-# AlgorithmSolution
-Algorithm Solution
+# Infinite Coins 💻
+
+- Solution of an Algorithm in Javascript language.
